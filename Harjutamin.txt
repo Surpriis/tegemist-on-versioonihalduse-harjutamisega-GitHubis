@@ -1,0 +1,1 @@
+GitHubi saab kasutada projektide arendamiseks ja koodide haldamiseks, olgu see siis programmeerimine, dokumentide loomine või meeskonnatöö. Edaspidi võid GitHubi abil õppida versioonihaldust, jagada oma projekte ja teha koostööd teiste arendajatega.
