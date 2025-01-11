@@ -1,0 +1,3 @@
+GitHub on veebiteenus projektide hostimiseks ja nendega koostöö tegemiseks, kasutades Giti versioonikontrollisüsteemi. See võimaldab arendajatel, meeskondadel ja organisatsioonidel hallata lähtekoodi, jälgida muudatusi ning panustada ja integreerida projektidesse täiustusi ja parandusi. GitHub pakub koostöötööriistu, nagu tõmbamistaotlused, probleemid, wikid ning võimalust koodi üle vaadata ja arutada.
+
+Teenust ei kasuta mitte ainult programmeerijad, vaid ka inimesed, kes töötavad erinevates valdkondades, kus on oluline koostöö projektides: teadlastest disainerite ja kirjanikeni. GitHubi kasutatakse aktiivselt ka avatud lähtekoodiga projektide, aga ka isiklike projektide, veebisaitide ja muude materjalide majutamiseks.
